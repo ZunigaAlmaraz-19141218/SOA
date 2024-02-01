@@ -1,3 +1,8 @@
 print("Hola mundo")
 
 funcion numero 2
+
+funcion numero 3
+
+def myfunction4(a)
+	return a+3
